@@ -1,8 +1,7 @@
 # Adding Comments in Your Code
 
-`/* content */`
-
-`//`
+* `/* content */`
+* `//`
 
 ```apex
 /* Adding multi-line comment
