@@ -9,3 +9,4 @@
 * [Map](map.md)
 * [Challenge](challenge.md)
 * [Final](final.md)
+* [Operator](operator.md)
