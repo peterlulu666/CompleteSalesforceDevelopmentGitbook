@@ -10,4 +10,4 @@
 * [Challenge](challenge.md)
 * [Final](final.md)
 * [Operator](operator.md)
-* [Datatype Conversion](datatype-conversion.md)
+* [Conversion str <--> int](conversion-str-less-than-greater-than-int.md)
