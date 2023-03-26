@@ -4,3 +4,4 @@
 * [String Class Methods](string-class-methods.md)
 * [Escape Character](escape-character.md)
 * [Adding Comments in Your Code](adding-comments-in-your-code.md)
+* [List](list.md)
