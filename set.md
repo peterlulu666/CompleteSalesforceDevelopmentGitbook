@@ -1,6 +1,6 @@
 # Set
 
-
+* Create set
 
 ```apex
 Set<Integer> rollNumbers = new Set<Integer>{11008890, 11008100, 11007231};
@@ -15,23 +15,50 @@ System.debug(rollNumbers);
 // adding duplicate values - NOT ALLOWED
 rollNumbers.add(89897767);
 System.debug(rollNumbers);
+```
 
+* Check contains
+
+```apex
 // check if set has an item
 System.debug(rollNumbers.contains(89897764));
 System.debug(rollNumbers.contains(345345));
+```
 
+* Contain
+
+```apex
+// check if set has an item
+System.debug(rollNumbers.contains(89897764));
+System.debug(rollNumbers.contains(345345));
+```
+
+* Remove
+
+```apex
 // delete an item
 rollNumbers.remove(89897765);
 System.debug(rollNumbers);
+```
 
+* Length
+
+```apex
 // get set size
 System.debug(rollNumbers.size());
+```
 
+* Check empty
+
+```apex
 // check if set is empty
 System.debug(rollNumbers.isEmpty());
+```
 
+* Clear
+
+```apex
 // remove all items
 rollNumbers.clear();
 System.debug(rollNumbers.isEmpty());
-
 ```
