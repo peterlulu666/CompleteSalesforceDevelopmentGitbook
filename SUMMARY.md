@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Primitive Data Types](README.md)
+* [String Class Methods](string-class-methods.md)
