@@ -7,3 +7,4 @@
 * [List](list.md)
 * [Set](set.md)
 * [Map](map.md)
+* [Challenge](challenge.md)
