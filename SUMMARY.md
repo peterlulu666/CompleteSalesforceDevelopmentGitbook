@@ -10,3 +10,4 @@
 * [Challenge](challenge.md)
 * [Final](final.md)
 * [Operator](operator.md)
+* [Datatype Conversion](datatype-conversion.md)
