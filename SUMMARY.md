@@ -5,3 +5,5 @@
 * [Escape Character](escape-character.md)
 * [Adding Comments in Your Code](adding-comments-in-your-code.md)
 * [List](list.md)
+* [Map](map.md)
+* [Set](set.md)
