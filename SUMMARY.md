@@ -7,7 +7,7 @@
 * [List](list.md)
 * [Set](set.md)
 * [Map](map.md)
-* [Map List Challenge](map-list-challenge.md)
+* [Map List Challenge](challenge.md)
 * [Final](final.md)
 * [Operator](operator.md)
 * [Conversion str <--> int](conversion-str-less-than-greater-than-int.md)

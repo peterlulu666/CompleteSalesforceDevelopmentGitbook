@@ -6,9 +6,6 @@
 
 ```apex
 public static Boolean isLeap(Integer year) {
-    Boolean leap = false;
-    
-    // Write your logic here
     if (Math.mod(year, 4) == 0) {
         if (Math.mod(year, 100) == 0 && Math.mod(year, 400) == 0) {
             return true;
@@ -19,15 +16,12 @@ public static Boolean isLeap(Integer year) {
         return true;
     }
     
-    return leap;
+    return false;
 }
 ```
 
 ```apex
 public static Boolean isLeap(Integer year) {
-    Boolean leap = false;
-    
-    // Write your logic here
     if (Math.mod(year, 4) == 0) {
         if (Math.mod(year, 100) == 0) {
             // for number can be divided by 4
@@ -46,6 +40,6 @@ public static Boolean isLeap(Integer year) {
             return true;
         }
     }
-    return leap
+    return false;
 }
 ```
